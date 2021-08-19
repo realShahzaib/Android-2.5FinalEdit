@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420098182749",
+    "project_id": "hybridproductlocator",
+    "storage_bucket": "hybridproductlocator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420098182749:android:f250fa1685d8601c1c07b4",
+        "android_client_info": {
+          "package_name": "com.hybridproduct.apps.nearbystores.AppController"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420098182749-k33pnu3sj5posshtt1hvd9e0k7pbbq9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzbyr5vyKGaztuwqrKVD4_Tj4EL5oZBXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420098182749-k33pnu3sj5posshtt1hvd9e0k7pbbq9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
